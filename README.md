@@ -2,7 +2,11 @@
 
 ## :memo: Problem Statement
 
-Atliq Hardware, a leading player in the computer hardware industry, faces challenges in optimizing their operations and understanding their market dynamics. In this project, we explore and analyze various aspects of their business using their sales and product data. The objective is to provide insights that help the company make data-driven decisions regarding their product lines, customers, and regional strategies.
+Atliq Hardware is one of the leading computer hardware producers in India and well expanded in other countries too.
+
+However, despite their growth, the management has identified a critical gap in their ability to extract actionable insights from their vast and diverse datasets. This lack of timely and informed decision-making has created challenges in addressing dynamic business needs effectively.
+
+To bridge this gap, the analytics team at Atliq Hardwares has compiled a series of ad-hoc business questions from various domains, including product analysis, customer behaviour, and sales performance. These questions aim to uncover key trends and drive data-backed decision-making.
 
 ---
 
